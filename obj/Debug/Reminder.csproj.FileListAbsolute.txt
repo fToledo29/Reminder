@@ -1,0 +1,9 @@
+c:\users\jtoledo\documents\visual studio 2013\Projects\Reminder\Reminder\bin\Debug\Reminder.exe.config
+c:\users\jtoledo\documents\visual studio 2013\Projects\Reminder\Reminder\bin\Debug\Reminder.exe
+c:\users\jtoledo\documents\visual studio 2013\Projects\Reminder\Reminder\bin\Debug\Reminder.pdb
+c:\users\jtoledo\documents\visual studio 2013\Projects\Reminder\Reminder\obj\Debug\Reminder.csprojResolveAssemblyReference.cache
+c:\users\jtoledo\documents\visual studio 2013\Projects\Reminder\Reminder\obj\Debug\Reminder.frm_Reminder.resources
+c:\users\jtoledo\documents\visual studio 2013\Projects\Reminder\Reminder\obj\Debug\Reminder.Properties.Resources.resources
+c:\users\jtoledo\documents\visual studio 2013\Projects\Reminder\Reminder\obj\Debug\Reminder.csproj.GenerateResource.Cache
+c:\users\jtoledo\documents\visual studio 2013\Projects\Reminder\Reminder\obj\Debug\Reminder.exe
+c:\users\jtoledo\documents\visual studio 2013\Projects\Reminder\Reminder\obj\Debug\Reminder.pdb
